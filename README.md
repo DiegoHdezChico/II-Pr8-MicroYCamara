@@ -31,3 +31,4 @@ Por último, se ha añadido un plano al que se le ha agregado el siguiente [scri
 * **Pulsar la tecla P:** Detiene la reproducción de la textura con el método `Stop()`, cambia la textura principal del material a la que tenía originalmente y devuelve el color original.
 * **Pulsar la tecla X:** Crea una variable de tipo `Texture2D` y almacena en ella los píxeles de la `WebCamTexture` en el momento en que se registó la pulsación. Finalmente, salva el contenido de la textura en la ruta especificada como atributo privado en formato **.png**.
 
+![](/img/Ejercicio_camara.gif)
